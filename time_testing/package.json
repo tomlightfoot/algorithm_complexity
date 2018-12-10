@@ -1,0 +1,27 @@
+{
+  "name": "algorithm_complexity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "start": "node test.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomlightfoot/algorithm_complexity.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomlightfoot/algorithm_complexity/issues"
+  },
+  "homepage": "https://github.com/tomlightfoot/algorithm_complexity#readme",
+  "dependencies": {
+    "csv": "^5.0.0",
+    "csv-stringify": "^5.0.0",
+    "csv-writer": "^1.2.0",
+    "fs": "0.0.1-security",
+    "node": "^11.2.0"
+  }
+}

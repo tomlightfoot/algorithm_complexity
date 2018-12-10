@@ -1,0 +1,29 @@
+{
+  "name": "algorithm_complexity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "duplicate.test.js",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "csv": "^5.0.0",
+    "csv-stringify": "^5.0.0",
+    "csv-writer": "^1.2.0",
+    "fs": "^0.0.1-security",
+    "mocha": "^5.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "time": "node timeTest.js",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomlightfoot/algorithm_complexity.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomlightfoot/algorithm_complexity/issues"
+  },
+  "homepage": "https://github.com/tomlightfoot/algorithm_complexity#readme"
+}
